@@ -1,3 +1,6 @@
+Project Students: Furkan Taşkın-Çağrı Yıldız
+Github Link: https://github.com/GTU-Graduation-Project-1/Optimization-of-Waste-Clean-up-After-Large-Scale-Disasters
+Trello Link: https://trello.com/b/kyBQP3TL/graduation-project-1
 This study addresses optimizing waste cleanup operations following large-scale
  disasters, aiming to minimize total cost and time. A mathematical model is developed
  to address aspects like building demolition, waste collection, processing at temporary
