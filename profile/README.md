@@ -4,6 +4,8 @@
 **GitHub Link:** [Optimization-of-Waste-Clean-up-After-Large-Scale-Disasters](https://github.com/GTU-Graduation-Project-1/Optimization-of-Waste-Clean-up-After-Large-Scale-Disasters)  
 **Trello Link:** [Project Management](https://trello.com/b/kyBQP3TL/graduation-project-1)  
 
+[![DOI](https://zenodo.org/badge/942723684.svg)](https://doi.org/10.5281/zenodo.15830468)
+
 ## Overview  
 This study addresses optimizing waste cleanup operations following large-scale disasters, aiming to minimize total cost and time. A mathematical model is developed to address aspects like:  
 
